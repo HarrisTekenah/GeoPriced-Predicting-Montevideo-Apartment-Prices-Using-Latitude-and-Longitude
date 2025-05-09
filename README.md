@@ -8,7 +8,7 @@ To model and visualize how geographic location influences housing prices, and to
 ---
 
 ## Dataset
-The dataset consists of real estate listings scraped from [Properati]([https://www.properati.com.uy](https://www.kaggle.com/datasets/jluza92/argentina-properati-listings-dataset-20202021)) via Kaggle, containing Real-estate listings from Argentina, Uruguay, Brazil and United States.
+The dataset consists of real estate listings scraped from [Properati](https://www.kaggle.com/datasets/jluza92/argentina-properati-listings-dataset-20202021) via Kaggle, containing real estate listings from Argentina, Uruguay, Brazil, and the United States.
 
 For this analysis, we focused on:
 - Properties located in **Montevideo**
